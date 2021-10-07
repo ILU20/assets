@@ -1,16 +1,14 @@
 {
-  "id": "0xacFC95585D80Ab62f67A14C566C1b7a49Fe91167",
-  "name": "FEG Token",
-  "symbol": "FEGbsc",
+  "id": "0xd10527fd41ae5b2e0e25daed689b933982e6ef27",
+  "name": "ILOVEYOU Token",
+  "symbol": "ILU",
   "type": "BEP20",
-  "decimals": 9,
-  "description": "FEG is at the center of the FEG ecosystem and is revolutionizing the DeFi space.",
-  "website": "https://fegtoken.com",
+  "decimals": 18,
+  "description": "Love is needed everywhere, please say I love you!",
+  "website": "https://charts.fegex.com/charts/0x6e63a4179f5d80229589b4c2692fbdc12652236c",
   "explorer": "https://bscscan.com/token/0xacfc95585d80ab62f67a14c566c1b7a49fe91167",
   "social": {
-    "twitter": "https://twitter.com/fegtoken",
-    "telegram": "https://t.me/fegchat",
-    "discord": "https://discord.com/invite/K372n4NkbJ",
-    "reddit": "https://reddit.com/r/FegToken_Official/"
+    "twitter": "https://twitter.com/IloveyouToken",
+    "telegram": "https://t.me/ILOVEYOUTOKEN"
   }
 }
